@@ -12,7 +12,7 @@
 
 - (NSString *)makeASound
 {
-    return @"Woof.";
+    return @"Woof!";
 }
 
 - (NSString *)assaultTheMailman
