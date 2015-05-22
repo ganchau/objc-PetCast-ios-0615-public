@@ -10,4 +10,7 @@
 
 @interface FISPet : NSObject
 
+- (NSString *)makeASound;
+- (NSString *)eatSomething;
+
 @end
